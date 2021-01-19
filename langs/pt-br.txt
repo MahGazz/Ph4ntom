@@ -1,30 +1,30 @@
-{ Basta digitar no campo vazio o ID ou o nome do app que você quer baixar e apertar 'Executar'. }\r\n
-\r\n
-[ No caso do programa começar a bugar ]\n
-00- Restart\r\n
-\r\n
---[ Principais Aplicativos ]--\r\n
-01- Desktop\r\n
-02- 7-Zip\r\n
-03- Explorer++\r\n
-\r\n
---[ Navegador ]--\r\n
-04- Mozilla Firefox\r\n
-05- Waterfox\r\n
-06- Wexond\r\n
-\r\n
---[ Editor de Texto ]--\r\n
-07- Notepad++\r\n
-08- VS Code\r\n
-\r\n
---[ Social ]--\r\n
-09- Discord\r\n
-10- Lightcord\r\n
-\r\n
---[ Entretenimento ]--\r\n
-11- Spotify\r\n
-12- VLC\r\n
-\r\n
+{ Basta digitar no campo vazio o ID ou o nome do app que você quer baixar e apertar 'Executar'. }
+
+[ No caso do programa começar a bugar ]
+00- Restart
+
+--[ Principais Aplicativos ]--
+01- Desktop
+02- 7-Zip
+03- Explorer++
+
+--[ Navegador ]--
+04- Mozilla Firefox
+05- Waterfox
+06- Wexond
+
+--[ Editor de Texto ]--
+07- Notepad++
+08- VS Code
+
+--[ Social ]--
+09- Discord
+10- Lightcord
+
+--[ Entretenimento ]--
+11- Spotify
+12- VLC
+
 --[ Jogos ]--
 13- Parsec
 14- Roblox
