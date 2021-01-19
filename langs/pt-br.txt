@@ -1,0 +1,62 @@
+{ Basta digitar no campo vazio o ID ou o nome do app que você quer baixar e apertar 'Executar'. }
+
+[ No caso do programa começar a bugar ]
+00- Restart
+
+--[ Principais Aplicativos ]--
+01- Desktop
+02- 7-Zip
+03- Explorer++
+
+--[ Navegador ]--
+04- Mozilla Firefox
+05- Waterfox
+06- Wexond
+
+--[ Editor de Texto ]--
+07- Notepad++
+08- VS Code
+
+--[ Social ]--
+09- Discord
+10- Lightcord
+
+--[ Entretenimento ]--
+11- Spotify
+12- VLC
+
+--[ Jogos ]--
+13- Parsec
+14- Roblox
+15- Among Us
+
+--[ Gravador ]--
+16- OBS Classic
+17- OBS Studio
+
+--[ Cheating / Gerenciamento ]--
+18- Cheat Engine
+19- Process Hacker
+
+--[ Desenvolvimento ]--
+20- Roblox Studio
+21- Blender
+22- Cinema 4D
+
+--[ Download / Upload ]--
+23- Free Download Manager
+24- MEGAsync
+25- qBittorrent
+
+--[ Emulatores ]--
+26- PPSSPP (PlayStation Portable)
+27- PCSX2 (PlayStation 2)
+28- RPCS3 (PlayStation 3)
+29- Xenia (Xbox 360)
+30- Citra (Nintendo 3DS)
+31- Cemu (Wii U)
+
+--[ Métodos ]--
+100- Arcade
+101- LucidTools
+102- SpaceTool
