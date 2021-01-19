@@ -1,62 +1,62 @@
-{ Basta digitar no campo vazio o ID ou o nome do app que você quer baixar e apertar 'Executar'. } \n
- \n
-[ No caso do programa começar a bugar ] \n
-00- Restart \n
- \n
---[ Principais Aplicativos ]-- \n
-01- Desktop \n
-02- 7-Zip \n
-03- Explorer++ \n
- \n
---[ Navegador ]-- \n
-04- Mozilla Firefox \n
-05- Waterfox \n
-06- Wexond \n
- \n
---[ Editor de Texto ]-- \n
-07- Notepad++ \n
-08- VS Code \n
- \n
---[ Social ]-- \n
-09- Discord \n
-10- Lightcord \n
- \n
---[ Entretenimento ]-- \n
-11- Spotify \n
-12- VLC \n
- \n
---[ Jogos ]-- \n
-13- Parsec \n
-14- Roblox \n
-15- Among Us \n
- \n
---[ Gravador ]-- \n
-16- OBS Classic \n
-17- OBS Studio \n
- \n
---[ Cheating / Gerenciamento ]-- \n
-18- Cheat Engine \n
-19- Process Hacker \n
- \n
---[ Desenvolvimento ]-- \n
-20- Roblox Studio \n
-21- Blender \n
-22- Cinema 4D \n
- \n
---[ Download / Upload ]-- \n
-23- Free Download Manager \n
-24- MEGAsync \n
-25- qBittorrent \n
- \n
---[ Emulatores ]-- \n
-26- PPSSPP (PlayStation Portable) \n
-27- PCSX2 (PlayStation 2) \n
-28- RPCS3 (PlayStation 3) \n
-29- Xenia (Xbox 360) \n
-30- Citra (Nintendo 3DS) \n
-31- Cemu (Wii U) \n
- \n
---[ Métodos ]-- \n
-100- Arcade \n
-101- LucidTools \n
-102- SpaceTool \n
+{ Basta digitar no campo vazio o ID ou o nome do app que você quer baixar e apertar 'Executar'. } \r
+ \r
+[ No caso do programa começar a bugar ] \r
+00- Restart \r
+ \r
+--[ Principais Aplicativos ]-- \r
+01- Desktop \r
+02- 7-Zip \r
+03- Explorer++ \r
+ \r
+--[ Navegador ]-- \r
+04- Mozilla Firefox \r
+05- Waterfox \r
+06- Wexond \r
+ \r
+--[ Editor de Texto ]-- \r
+07- Notepad++ \r
+08- VS Code \r
+ \r
+--[ Social ]-- \r
+09- Discord \r
+10- Lightcord \r
+ \r
+--[ Entretenimento ]-- \r
+11- Spotify \r
+12- VLC \r
+ \r
+--[ Jogos ]-- \r
+13- Parsec \r
+14- Roblox \r
+15- Among Us \r
+ \r
+--[ Gravador ]-- \r
+16- OBS Classic \r
+17- OBS Studio \r
+ \r
+--[ Cheating / Gerenciamento ]-- \r
+18- Cheat Engine \r
+19- Process Hacker \r
+ \r
+--[ Desenvolvimento ]-- \r
+20- Roblox Studio \r
+21- Blender \r
+22- Cinema 4D \r
+ \r
+--[ Download / Upload ]-- \r
+23- Free Download Manager \r
+24- MEGAsync \r
+25- qBittorrent \r
+ \r
+--[ Emulatores ]-- \r
+26- PPSSPP (PlayStation Portable) \r
+27- PCSX2 (PlayStation 2) \r
+28- RPCS3 (PlayStation 3) \r
+29- Xenia (Xbox 360) \r
+30- Citra (Nintendo 3DS) \r
+31- Cemu (Wii U) \r
+ \r
+--[ Métodos ]-- \r
+100- Arcade \r
+101- LucidTools \r
+102- SpaceTool \r
