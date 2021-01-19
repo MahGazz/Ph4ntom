@@ -1,62 +1,62 @@
-{ Basta digitar no campo vazio o ID ou o nome do app que você quer baixar e apertar 'Executar'. } \r\n 
- \r\n 
-[ No caso do programa começar a bugar ] \r\n 
-00- Restart \r\n 
- \r\n 
---[ Principais Aplicativos ]-- \r\n 
-01- Desktop \r\n 
-02- 7-Zip \r\n 
-03- Explorer++ \r\n 
- \r\n 
---[ Navegador ]-- \r\n 
-04- Mozilla Firefox \r\n 
-05- Waterfox \r\n 
-06- Wexond \r\n 
- \r\n 
---[ Editor de Texto ]-- \r\n 
-07- Notepad++ \r\n 
-08- VS Code \r\n 
- \r\n 
---[ Social ]-- \r\n 
-09- Discord \r\n 
-10- Lightcord \r\n 
- \r\n 
---[ Entretenimento ]-- \r\n 
-11- Spotify \r\n 
-12- VLC \r\n 
- \r\n 
---[ Jogos ]-- \r\n 
-13- Parsec \r\n 
-14- Roblox \r\n 
-15- Among Us \r\n 
- \r\n 
---[ Gravador ]-- \r\n 
-16- OBS Classic \r\n 
-17- OBS Studio \r\n 
- \r\n 
---[ Cheating / Gerenciamento ]-- \r\n 
-18- Cheat Engine \r\n 
-19- Process Hacker \r\n 
- \r\n 
---[ Desenvolvimento ]-- \r\n 
-20- Roblox Studio \r\n 
-21- Blender \r\n 
-22- Cinema 4D \r\n 
- \r\n 
---[ Download / Upload ]-- \r\n 
-23- Free Download Manager \r\n 
-24- MEGAsync \r\n 
-25- qBittorrent \r\n 
- \r\n 
---[ Emulatores ]-- \r\n 
-26- PPSSPP (PlayStation Portable) \r\n 
-27- PCSX2 (PlayStation 2) \r\n 
-28- RPCS3 (PlayStation 3) \r\n 
-29- Xenia (Xbox 360) \r\n 
-30- Citra (Nintendo 3DS) \r\n 
-31- Cemu (Wii U) \r\n 
- \r\n 
---[ Métodos ]-- \r\n 
-100- Arcade \r\n 
-101- LucidTools \r\n 
-102- SpaceTool \r\n 
+{ Basta digitar no campo vazio o ID ou o nome do app que você quer baixar e apertar 'Executar'. }\\n
+\\n
+[ No caso do programa começar a bugar ]\\n
+00- Restart\\n
+\\n
+--[ Principais Aplicativos ]--\\n
+01- Desktop\\n
+02- 7-Zip\\n
+03- Explorer++\\n
+\\n
+--[ Navegador ]--\\n
+04- Mozilla Firefox\\n
+05- Waterfox\\n
+06- Wexond\\n
+\\n
+--[ Editor de Texto ]--\\n
+07- Notepad++\\n
+08- VS Code\\n
+\\n
+--[ Social ]--\\n
+09- Discord\\n
+10- Lightcord\\n
+\\n
+--[ Entretenimento ]--\\n
+11- Spotify\\n
+12- VLC\\n
+\\n
+--[ Jogos ]--\\n
+13- Parsec\\n
+14- Roblox\\n
+15- Among Us\\n
+\\n
+--[ Gravador ]--\\n
+16- OBS Classic\\n
+17- OBS Studio\\n
+\\n
+--[ Cheating / Gerenciamento ]--\\n
+18- Cheat Engine\\n
+19- Process Hacker\\n
+\\n
+--[ Desenvolvimento ]--\\n
+20- Roblox Studio\\n
+21- Blender\\n
+22- Cinema 4D\\n
+\\n
+--[ Download / Upload ]--\\n
+23- Free Download Manager\\n
+24- MEGAsync\\n
+25- qBittorrent\\n
+\\n
+--[ Emulatores ]--\\n
+26- PPSSPP (PlayStation Portable)\\n
+27- PCSX2 (PlayStation 2)\\n
+28- RPCS3 (PlayStation 3)\\n
+29- Xenia (Xbox 360)\\n
+30- Citra (Nintendo 3DS)\\n
+31- Cemu (Wii U)\\n
+\\n
+--[ Métodos ]--\\n
+100- Arcade\\n
+101- LucidTools\\n
+102- SpaceTool\\n
