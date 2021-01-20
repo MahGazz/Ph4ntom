@@ -1,4 +1,4 @@
-{ Basta digitar o ID ou o nome do app que você quer baixar no campo vazio e apertar "Executar". }\\r
+{ Basta digitar no campo vazio o nome ou o ID do app que você quer baixar e apertar "Executar". }\\r
 \\r
 [ No caso da UI ter problemas ]\\r
 00- Reiniciar\\r
