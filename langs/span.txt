@@ -1,4 +1,4 @@
-{ Simplemente escriba el ID o el nombre de la aplicación que desea descargar en el campo vacío y presione "Ejecutar". }\\r
+{ Escriba el ID o el nombre del app que desea descargar en el campo vacío y presione "Ejecutar". }\\r
 \\r
 [ En caso de que la UI tenga problemas ]\\r
 00- Reiniciar\\r
