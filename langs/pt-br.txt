@@ -1,7 +1,7 @@
-{ Basta digitar no campo vazio o ID ou o nome do app que você quer baixar e apertar 'Executar'. }\\r
+{ Basta digitar o ID ou o nome do app que você quer baixar no campo vazio e apertar "Executar". }\\r
 \\r
-[ No caso do programa começar a bugar ]\\r
-00- Restart\\r
+[ No caso da UI ter problemas ]\\r
+00- Reiniciar\\r
 \\r
 --[ Principais Aplicativos ]--\\r
 01- Desktop\\r
