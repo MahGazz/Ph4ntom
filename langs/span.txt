@@ -1,9 +1,9 @@
-{ Basta digitar o ID ou o nome do app que você quer baixar no campo vazio e apertar "Executar". }\\r
+{ Simplemente escriba el ID o el nombre de la aplicación que desea descargar en el campo vacío y presione "Ejecutar". }\\r
 \\r
-[ No caso da UI ter problemas ]\\r
+[ En caso de que la UI tenga problemas ]\\r
 00- Reiniciar\\r
 \\r
---[ Principais Aplicativos ]--\\r
+--[ Aplicaciones principales ]--\\r
 01- Desktop\\r
 02- 7-Zip\\r
 03- Explorer++\\r
@@ -21,29 +21,29 @@
 09- Discord\\r
 10- Lightcord\\r
 \\r
---[ Entretenimento ]--\\r
+--[ Entretenimiento ]--\\r
 11- Spotify\\r
 12- VLC\\r
 \\r
---[ Jogos ]--\\r
+--[ Juegos ]--\\r
 13- Parsec\\r
 14- Roblox\\r
 15- Among Us\\r
 \\r
---[ Gravador ]--\\r
+--[ Grabador ]--\\r
 16- OBS Classic\\r
 17- OBS Studio\\r
 \\r
---[ Cheating / Gerenciamento ]--\\r
+--[ Cheating / Administración ]--\\r
 18- Cheat Engine\\r
 19- Process Hacker\\r
 \\r
---[ Desenvolvimento ]--\\r
+--[ Desarrollo ]--\\r
 20- Roblox Studio\\r
 21- Blender\\r
 22- Cinema 4D\\r
 \\r
---[ Download / Upload ]--\\r
+--[ Descargar / Cargar ]--\\r
 23- Free Download Manager\\r
 24- MEGAsync\\r
 25- qBittorrent\\r
